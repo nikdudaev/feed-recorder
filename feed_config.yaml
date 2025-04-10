@@ -1,0 +1,18 @@
+# Feed Reader Configuration
+# List of RSS/Atom feed URLs to monitor
+
+feed_urls:
+  # Technology
+  - https://news.ycombinator.com/rss
+  - https://www.wired.com/feed/rss
+
+  # Science
+  - https://rss.sciencedaily.com/all.xml
+
+  # News
+  - https://feeds.bbci.co.uk/news/world/rss.xml
+
+  # Example of adding personal blogs
+  # - https://example.com/feed.xml
+
+  # Add or remove feeds as needed
